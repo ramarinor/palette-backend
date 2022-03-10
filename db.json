@@ -1,0 +1,423 @@
+{
+  "colors": [
+    {
+      "id": "kobe",
+      "number": "3010",
+      "hexCode": "#26393a",
+      "color": "green",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "pantanal",
+      "number": "2595",
+      "hexCode": "#232820",
+      "color": "green",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "glenveagh",
+      "number": "2520",
+      "hexCode": "#4b5653",
+      "color": "blue",
+      "tone": "dark",
+      "date": "2022-01-07"
+    },
+    {
+      "id": "hazel",
+      "number": "0090",
+      "hexCode": "#767c73",
+      "color": "grey",
+      "tone": "medium",
+      "date": "2022-01-06"
+    },
+    {
+      "id": "kigali",
+      "number": "1000",
+      "hexCode": "#767c73",
+      "color": "green",
+      "tone": "dark",
+      "date": "2022-01-08"
+    },
+    {
+      "id": "greensburg",
+      "number": "0085",
+      "hexCode": "#91a084",
+      "color": "green",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "eslamabad",
+      "number": "0070",
+      "hexCode": "#b5b29a",
+      "color": "green",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "havasupai",
+      "number": "1095",
+      "hexCode": "#a14f3d",
+      "color": "red",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "st-mary",
+      "number": "2010",
+      "hexCode": "#866463",
+      "color": "purple",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "granada",
+      "number": "1550",
+      "hexCode": "#a76d6b",
+      "color": "pink",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "chamarel",
+      "number": "1595",
+      "hexCode": "#a34549",
+      "color": "red",
+      "tone": "dark",
+      "date": "2022-01-05"
+    },
+    {
+      "id": "navajo",
+      "number": "2565",
+      "hexCode": "#b54f48",
+      "color": "red",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "arizona",
+      "number": "0560",
+      "hexCode": "#cc6d68",
+      "color": "pink",
+      "tone": "medium",
+      "date": "2022-01-04"
+    },
+    {
+      "id": "broken-hill",
+      "number": "1035",
+      "hexCode": "#c3c1c6",
+      "color": "grey",
+      "tone": "medium",
+      "date": "2022-01-09"
+    },
+    {
+      "id": "troutville",
+      "number": "2525",
+      "hexCode": "#dedbdc",
+      "color": "grey",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "wexford",
+      "number": "0045",
+      "hexCode": "#cdd0ce",
+      "color": "blue",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "vilnius",
+      "number": "0590",
+      "hexCode": "#dfc3af",
+      "color": "beige",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "baaja",
+      "number": "1500",
+      "hexCode": "#eec7a6",
+      "color": "beige",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "baku",
+      "number": "3005",
+      "hexCode": "#e6ccb3",
+      "color": "beige",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "ajman",
+      "number": "0525",
+      "hexCode": "#fbeed8",
+      "color": "beige",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "merzouga",
+      "number": "1030",
+      "hexCode": "#dccdc5",
+      "color": "pink",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "sidi-ali",
+      "number": "3000",
+      "hexCode": "#decfcb",
+      "color": "pink",
+      "tone": "light",
+      "date": "2022-01-02"
+    },
+    {
+      "id": "ricasoli",
+      "number": "0550",
+      "hexCode": "#d3aaa9",
+      "color": "pink",
+      "tone": "medium",
+      "date": "2022-01-03"
+    },
+    {
+      "id": "monte-castello",
+      "number": "1525",
+      "hexCode": "#f8eabf",
+      "color": "yellow",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "burano",
+      "number": "2575",
+      "hexCode": "#f3ca59",
+      "color": "yellow",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "gallipoli",
+      "number": "2570",
+      "hexCode": "#ecc363",
+      "color": "yellow",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "bo-kaap",
+      "number": "2580",
+      "hexCode": "#cf5d3c",
+      "color": "orange",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "oyo",
+      "number": "2560",
+      "hexCode": "#afa290",
+      "color": "beige",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "belleville",
+      "number": "1005",
+      "hexCode": "#bdbaaf",
+      "color": "grey",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "dakhla",
+      "number": "2555",
+      "hexCode": "#d6d0c4",
+      "color": "grey",
+      "tone": "light",
+      "date": "2022-01-01"
+    },
+    {
+      "id": "ponticelli",
+      "number": "1570",
+      "hexCode": "#dfc9ae",
+      "color": "beige",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "rimini",
+      "number": "0535",
+      "hexCode": "#d7c4a5",
+      "color": "beige",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "niigata",
+      "number": "0580",
+      "hexCode": "#511a20",
+      "color": "purple",
+      "tone": "dark",
+      "date": "2022-01-10"
+    },
+    {
+      "id": "port-louis",
+      "number": "2590",
+      "hexCode": "#0a0c1b",
+      "color": "black",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "khao-sok",
+      "number": "2585",
+      "hexCode": "#230f15",
+      "color": "red",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "baden-baden",
+      "number": "1080",
+      "hexCode": "#232121",
+      "color": "black",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "karlstad",
+      "number": "1520",
+      "hexCode": "#3a2c38",
+      "color": "purple",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "chebourg",
+      "number": "0040",
+      "hexCode": "#373c46",
+      "color": "blue",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "reign",
+      "number": "0030",
+      "hexCode": "#69727d",
+      "color": "blue",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "chefchaouen",
+      "number": "0050",
+      "hexCode": "#9caeab",
+      "color": "blue",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "oldbury",
+      "number": "1070",
+      "hexCode": "#444344",
+      "color": "grey",
+      "tone": "dark",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "bampton",
+      "number": "1065",
+      "hexCode": "#656467",
+      "color": "grey",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "saint-malo",
+      "number": "1015",
+      "hexCode": "#807e7d",
+      "color": "grey",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "portland",
+      "number": "1010",
+      "hexCode": "#a9a8a3",
+      "color": "grey",
+      "tone": "light",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "nova",
+      "number": "0510",
+      "hexCode": "#7f8757",
+      "color": "green",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "rosemont",
+      "number": "0075",
+      "hexCode": "#c6bc8a",
+      "color": "beige",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "barilius",
+      "number": "0570",
+      "hexCode": "#b19f9c",
+      "color": "pink",
+      "tone": "medium",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "courchevel",
+      "number": "1090",
+      "hexCode": "#fafaf4",
+      "color": "white",
+      "tone": "light",
+      "date": "2021-12-30"
+    }
+  ],
+  "users": [
+    {
+      "id": "rinor.rama95@gmail.com",
+      "password": "123456",
+      "firstName": "Rinor",
+      "lastName": "Rama",
+      "address": "Mensur Zyberaj",
+      "cart": [
+        {
+          "id": "hazel",
+          "type": "paint",
+          "price": 39,
+          "quantity": 2
+        },
+        {
+          "id": "st-mary",
+          "type": "paint",
+          "price": 39,
+          "quantity": 1
+        },
+        {
+          "id": "glenveagh",
+          "type": "sample",
+          "price": 3,
+          "quantity": 1
+        },
+        {
+          "id": "hazel",
+          "type": "sample",
+          "price": 3,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
