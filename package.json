@@ -13,7 +13,7 @@
   "dependencies": {
     "json-server": "^0.17.0"
   },
-  "engines" {
+  "engines": {
     "node": "^16.0.0"
   }
 }
